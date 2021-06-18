@@ -1,0 +1,1262 @@
+{
+  "centers": [
+    {
+      "center_id": 606128,
+      "name": "2 Wadiya Hospital",
+      "address": "Wadiya Hospital Near MMC Malegaon",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Malegaon",
+      "pincode": 423203,
+      "lat": 20,
+      "long": 74,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "512b1288-0d17-4160-bbc5-d963d30aac0b",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 55980,
+      "name": "PHC Pimpalgaon B (45 Plus)",
+      "address": "Zilla Parishad School Near Bus Stand Pimpalgaon Baswant",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Niphad",
+      "pincode": 422209,
+      "lat": 20,
+      "long": 73,
+      "from": "14:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7d979cea-30ec-483a-b277-485b73a321d4",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "02:00PM-04:00PM",
+            "04:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 612815,
+      "name": "Jaydar PHC",
+      "address": "At Post Jaydar",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Kalwan",
+      "pincode": 423502,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b8517e9e-0a9a-45c7-9efa-cadd651d81bf",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608932,
+      "name": "LIFE CARE HOSPITAL Nashik",
+      "address": "Lekha Nagar Nasik Mumbai Agra Highway",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik Corporation",
+      "pincode": 422009,
+      "lat": 19,
+      "long": 73,
+      "from": "11:00:00",
+      "to": "16:00:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "0ee121f8-ba81-4757-867e-d92ca0232135",
+          "date": "18-06-2021",
+          "available_capacity": 89,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-02:00PM",
+            "02:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 89
+        },
+        {
+          "session_id": "dc4d0bb3-3e98-4867-b032-d17bf85ade0b",
+          "date": "18-06-2021",
+          "available_capacity": 26,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "02:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 26
+        },
+        {
+          "session_id": "d7bb8a2d-a873-432b-afe2-ae6b897dbeb4",
+          "date": "19-06-2021",
+          "available_capacity": 71,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-02:00PM",
+            "02:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 71
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        }
+      ]
+    },
+    {
+      "center_id": 589412,
+      "name": "PHC Pimparkhed",
+      "address": "At Post Pimparkhed",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nandgaon",
+      "pincode": 424109,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fbc16274-c99a-43d4-9eb7-2cea7737685b",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604451,
+      "name": "1 Chandwad SDH",
+      "address": "At Post Chandwad",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Chandwad",
+      "pincode": 423101,
+      "lat": 20,
+      "long": 74,
+      "from": "10:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4fc9b0c7-150b-4d8b-a00d-304e3db3085a",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 55917,
+      "name": "SDH Niphad",
+      "address": "Nandurdi Road Niphad",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Niphad",
+      "pincode": 422303,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9ee39479-1ccc-4f25-80d0-c620966b0364",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 701462,
+      "name": "Pangarne PHC",
+      "address": "AT POST PANGARNE TAL.SURGANA DIST.NASHIK",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Surgana",
+      "pincode": 422211,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "59357452-2639-469d-b5c6-a15d74ed43bd",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 220910,
+      "name": "Phc Jaikheda",
+      "address": "Near Z P School  Nampur Road",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Satana",
+      "pincode": 423303,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e87f8920-6981-414f-a80e-fd326a95fc1f",
+          "date": "18-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 610148,
+      "name": "PHC Lahavit 1 Tal Nashik",
+      "address": "Primary Health Center Lahavit Tal Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422502,
+      "lat": 19,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7f4e8d9e-b08d-4a2f-a7b8-b7dd2c8ee794",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 606904,
+      "name": "1Dahiwad PHC",
+      "address": "At Po Dahiwad Tal Deola Dist Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Deola",
+      "pincode": 423102,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d33fcc5b-ec18-4fc6-b1cd-2e8e9bce4eb4",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608671,
+      "name": "Jogmodi PHC",
+      "address": "AT POST JOGMODI",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8f400dbd-c296-4fca-934c-a01e25231a07",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 671864,
+      "name": "SC Chincholi",
+      "address": "Chincholi Tal Sinnar",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422102,
+      "lat": 19,
+      "long": 73,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5f91f8c6-a7d9-49e0-8dc9-26c754a9fd2b",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 617319,
+      "name": "Ware PHC",
+      "address": "At Post Ware",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Dindori",
+      "pincode": 422202,
+      "lat": 20,
+      "long": 73,
+      "from": "10:00:00",
+      "to": "14:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9f30ac6e-cefa-4a99-821e-a67ddaa2923a",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-01:00PM",
+            "01:00PM-02:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 590285,
+      "name": "1 Apollo Hospital",
+      "address": "Plot No. 1 Swaminarayan Nagar New Adgaon Naka Panchavati Near Lunge Mangal Karyalay Nashik Maharashtra",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik Corporation",
+      "pincode": 422003,
+      "lat": 0,
+      "long": 23,
+      "from": "12:30:00",
+      "to": "16:30:00",
+      "fee_type": "Paid",
+      "sessions": [
+        {
+          "session_id": "95319a45-6ea7-4612-9a18-e40b3239b09b",
+          "date": "19-06-2021",
+          "available_capacity": 8,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "12:30PM-01:30PM",
+            "01:30PM-02:30PM",
+            "02:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 8
+        },
+        {
+          "session_id": "696cde0c-aebd-41be-b787-305912e8b3d6",
+          "date": "19-06-2021",
+          "available_capacity": 8,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:30AM-12:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 8
+        },
+        {
+          "session_id": "548269b9-d57c-4883-95fa-eec487d97a79",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "12:30PM-01:30PM",
+            "01:30PM-02:30PM",
+            "02:30PM-03:30PM",
+            "03:30PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "b401c52f-f3cf-480d-84e0-d0715f08d59d",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "10:30AM-12:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ],
+      "vaccine_fees": [
+        {
+          "vaccine": "COVISHIELD",
+          "fee": "780"
+        },
+        {
+          "vaccine": "COVAXIN",
+          "fee": "1410"
+        }
+      ]
+    },
+    {
+      "center_id": 589468,
+      "name": "Karanjali Phc",
+      "address": "Karanjali",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "27e83658-1af7-4b4b-91cb-7b88f22b0449",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 673537,
+      "name": "HWC MARHAL BK",
+      "address": "MARHAL BK  TAL. SINNAR DIST NASHIK",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422606,
+      "lat": 19,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fcdb97e6-99dc-4520-91a9-f193f69bba86",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608680,
+      "name": "Kumbhale PHC",
+      "address": "At Post Kumbhale",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6088202c-868e-43f6-aa7e-7cd8fc989789",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 589536,
+      "name": "Ambe PHC",
+      "address": "At Post Ambe",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "64391209-7a9f-40f8-b322-f291d89be1dd",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 607020,
+      "name": "1 Meshi PHC",
+      "address": "At Po Meshi Tal Deola Dist Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Deola",
+      "pincode": 423102,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c2e5279a-3a75-49a2-a2f2-53a6d9a8bcd8",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 58036,
+      "name": "SC Vadgaon Tal Nashik",
+      "address": "Vadgaon Tal Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422203,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fdec26bc-2e90-4c47-899e-f7e78744be86",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 47864,
+      "name": "Bhuvan PHC",
+      "address": "Bhuvan PHC",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "82cd327e-b35d-43de-92e8-f92b32a36bf1",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 606998,
+      "name": "1 Kharda PHC",
+      "address": "At Po Kharda Tal Deola Dist Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Deola",
+      "pincode": 423102,
+      "lat": 19,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "60918827-5122-4945-8213-02c898215f57",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 665738,
+      "name": "SC Palse Tal Nashik",
+      "address": "Palse SC",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422102,
+      "lat": 19,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "504ad51b-5d1b-4d9c-923a-8bebd5a8c61c",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 221068,
+      "name": "Deola 1 Sub Center",
+      "address": "Near Adarsh Hospital Deola",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Deola",
+      "pincode": 423102,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "db340ce9-fb0b-4f70-a171-eaaf81a9f8b0",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 55909,
+      "name": "Naygaon PHC",
+      "address": "Naygaon PHC",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422102,
+      "lat": 19,
+      "long": 73,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c06d377d-6278-49b7-90af-bb1b795e5777",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608607,
+      "name": "1 Lohoner PHC",
+      "address": "At Po Lohoner Tal Deola Dist Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Deola",
+      "pincode": 423301,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "dd53aab6-e06a-42b2-a2be-4413774de585",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 58008,
+      "name": "SC Dari Tal Nashik",
+      "address": "Dari SC",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422003,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "aa378669-8f94-40ea-b4d5-d1bc33351a72",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 608701,
+      "name": "Kulwandi PHC",
+      "address": "At Post Kulwandi",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "74f4e1b4-88e0-42d6-876f-4ec39a9d4564",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 589047,
+      "name": "PHC WAVI",
+      "address": "PHC WAVI",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422104,
+      "lat": 19,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fb2ce294-a77f-47ae-a572-77d9b6b8fdd9",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 48009,
+      "name": "Kohor PHC",
+      "address": "Kohor PHC",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Peth",
+      "pincode": 422208,
+      "lat": 20,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "16:30:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9d84ef70-2d60-473b-a19e-f3eb20d4f54a",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-04:30PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 683353,
+      "name": "SC Kundewadi Sinnar",
+      "address": "SC Kundewadi PHC Naygaon Tal Sinnar",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422103,
+      "lat": 19,
+      "long": 74,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "523f4c3d-dde9-4f62-9e46-c4985688bb92",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 610155,
+      "name": "PHC Shinde 1 Tal Nashik",
+      "address": "Primary Helath Center Shinde Tal Nashik",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422102,
+      "lat": 19,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9b1b530f-3ec6-4c5f-9b64-0932f0dadde0",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 55709,
+      "name": "PHC Jategaon Tal Nashik",
+      "address": "Jategaon",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422010,
+      "lat": 19,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "547c3c8a-cd48-4898-bc54-06c6517addbf",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 673536,
+      "name": "Hwc Chass",
+      "address": "Chass Dapur Sinnar",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422103,
+      "lat": 19,
+      "long": 74,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8d9e3551-e1ef-46a6-8bc3-238b7cfec289",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 589123,
+      "name": "Bolthan PHC 123",
+      "address": "Bolthan Tal Nandgaon",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nandgaon",
+      "pincode": 423106,
+      "lat": 20,
+      "long": 74,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "2d11a678-0b62-49ce-b0b6-17bfbb894715",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 56052,
+      "name": "Sc Sansari Tal Nashik",
+      "address": "Sansari SC",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Nashik",
+      "pincode": 422401,
+      "lat": 19,
+      "long": 73,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "46551d03-226f-4ddb-9fe1-e310a6725e11",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 55899,
+      "name": "SC Hiwargaon PHC Naygaon",
+      "address": "SC Hiwargaon PHC Naygaon Tal Sinnar",
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "block_name": "Sinnar",
+      "pincode": 422102,
+      "lat": 19,
+      "long": 74,
+      "from": "10:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ee2a5eed-d522-4bfa-8051-269ac57ac99f",
+          "date": "19-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "10:00AM-12:00PM",
+            "12:00PM-02:00PM",
+            "02:00PM-04:00PM",
+            "04:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    }
+  ]
+}
